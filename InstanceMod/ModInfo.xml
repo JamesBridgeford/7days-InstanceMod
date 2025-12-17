@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="JamesBridgeford_InstanceMod" />
+    <DisplayName value="Instance Mod" />
+    <Version value="0.1.0.0" />
+    <Description value="Creates isolated game instances with dedicated resources and progression tracking for 7 Days to Die multiplayer servers." />
+    <Author value="JamesBridgeford" />
+    <Website value="https://github.com/JamesBridgeford/7days-InstanceMod" />
+</xml>
